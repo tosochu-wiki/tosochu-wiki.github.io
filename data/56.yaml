@@ -1,3 +1,7 @@
+title: 美女とハンターと野獣
+description: description
+length: 7800
+people: 21
 message: 
   - person: フワちゃん
     type: catched
@@ -51,3 +55,12 @@ message:
   - person: 松丸亮吾
     type: catched
     time: 6:47
+  - person: 松田宣浩
+    type: catched
+    time: 6:39
+  - person: 佐藤勝利
+    type: catched
+    time: 2:36
+  - person: HIKAKIN
+    type: win
+    money: 1500000
